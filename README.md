@@ -4,7 +4,7 @@ Program untuk menyensor kata-kata tertentu, kata-kata buruk atau badword akan di
 
 ## Tampilan
 Program ini diterapkan pada sebuah tampilan chat atau perpesanan. Untuk tampilan yang digunakan terlihat seperti dibawah ini:
-![Home](/images/home.jpg)
+![Home](images/home.jpg)
 
 ## Cara Menggunakan
 1. Code ini dibuat dengan node.js jadi pastikan perangkat sudah memiliki atau meng-install node.js. 
@@ -13,7 +13,7 @@ Program ini diterapkan pada sebuah tampilan chat atau perpesanan. Untuk tampilan
 4. Jika sudah selesai dengan instalasi sekarang import file badword.json kedalam mongoDB, ini adalah file berisi daftar badword.
 5. Setelah selesai, masuk ke direktori dimana anda menyimpan file program dan jalankan server.js dengan nodemon(lihat gambar dibawah).
 
-![Run](/images/run.jpg)
+![Run](images/run.jpg)
 
 ## Apa saja yang dibutuhkan
 Node.js
