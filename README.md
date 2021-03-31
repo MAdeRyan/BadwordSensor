@@ -4,6 +4,7 @@ Program untuk menyensor kata-kata tertentu, kata-kata buruk atau badword akan di
 
 ## Tampilan
 Program ini diterapkan pada sebuah tampilan chat atau perpesanan. Untuk tampilan yang digunakan terlihat seperti dibawah ini:
+
 ![Home](images/home.JPG)
 
 ## Cara Menggunakan
