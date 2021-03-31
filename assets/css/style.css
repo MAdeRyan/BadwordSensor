@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0; 
+    font:'Open Sans', sans-serif;   
+    
+}
+body {
+    background-color: cadetblue;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.bottom {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+    padding-left: 10%;
+    padding-right: 10%;    
+    padding-bottom: 20px; 
+    background: cadetblue;    
+}
+
+.top {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    padding-left: 10%;
+    padding-right: 10%;    
+    padding-top: 20px; 
+    background: cadetblue; 
+}
+
+.myform {
+    border-radius: 25px;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    outline-style: none;
+    background-color: white;
+    border: 1px solid #ced4da;
+}
+.myform.receiver {
+    width: 30%;
+}
+
+textarea.myform {
+    min-height: 50px;
+    height: 50px;
+    max-height:inherit
+}
+
+.send-to {
+    padding: 10px;
+    color: white;
+}
+.messages {
+    margin-top: 20%;                       
+    padding: 25px;
+    background-color: rgb(171, 195, 231);
+    overflow: auto;
+    height: 50vh;        
+}
+.send-messages {
+    position: relative;
+    margin-bottom: 10px;
+    margin-left: calc(100% - 240px);
+    padding: 10px;
+    background-color: white;
+    min-width: 200px;
+    height: 50px;
+    text-align: left;
+    font: 400 .9em 'Open Sans', sans-serif;
+    border: 1px solid white;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+}
+.send-messages:after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 15px solid white;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    top: 0;
+    right: -15px;
+}
+
+.send-messages:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 17px solid white;
+    border-left: 16px solid transparent;
+    border-right: 16px solid transparent;
+    top: -1px;
+    right: -17px;
+}
+.messages-content {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.message-timestamp-right {
+    position: absolute;
+    font-size: .85em;
+    font-weight: 300;
+    bottom: 5px;
+    right: 5px;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {    
+    background-color: rgb(171, 171, 231); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+.row {
+    margin-left: 0px;
+}
+#kirim {
+    width: 150px;
+    border-radius: 30px;
+    margin-left: 30px;
+    height: 50px;
+}
+
+.btn-send {
+    background-color: rgb(171, 195, 231);
+    color: white;
+}

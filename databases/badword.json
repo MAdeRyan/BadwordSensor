@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "604f4b4aae8e81f3f22a02ba"
+  },
+  "value": "mawar"
+},{
+  "_id": {
+    "$oid": "604f4c1bae8e81f3f22a02bb"
+  },
+  "value": "melati"
+},{
+  "_id": {
+    "$oid": "60547f894d8a59db80c6e383"
+  },
+  "value": "anggrek"
+},{
+  "_id": {
+    "$oid": "60547fa84d8a59db80c6e384"
+  },
+  "value": "motor"
+},{
+  "_id": {
+    "$oid": "60547fb64d8a59db80c6e385"
+  },
+  "value": "mobil"
+},{
+  "_id": {
+    "$oid": "60547fcb4d8a59db80c6e386"
+  },
+  "value": "helikopter"
+},{
+  "_id": {
+    "$oid": "60547fe54d8a59db80c6e387"
+  },
+  "value": "pesawat"
+},{
+  "_id": {
+    "$oid": "605a2b5c5a6572e7dd0e043e"
+  },
+  "value": "iya"
+},{
+  "_id": {
+    "$oid": "605a2b8d5a6572e7dd0e043f"
+  },
+  "value": "dia"
+},{
+  "_id": {
+    "$oid": "605a2b985a6572e7dd0e0440"
+  },
+  "value": "saya"
+},{
+  "_id": {
+    "$oid": "605a2ba55a6572e7dd0e0441"
+  },
+  "value": "kamu"
+},{
+  "_id": {
+    "$oid": "605a2bad5a6572e7dd0e0442"
+  },
+  "value": "kata"
+},{
+  "_id": {
+    "$oid": "605a2bb55a6572e7dd0e0443"
+  },
+  "value": "jika"
+},{
+  "_id": {
+    "$oid": "605a2c1b5a6572e7dd0e0444"
+  },
+  "value": "belajar"
+},{
+  "_id": {
+    "$oid": "605a2c375a6572e7dd0e0445"
+  },
+  "value": "kuliah"
+},{
+  "_id": {
+    "$oid": "605a2c405a6572e7dd0e0446"
+  },
+  "value": "sekolah"
+},{
+  "_id": {
+    "$oid": "605a2ce15a6572e7dd0e0448"
+  },
+  "value": "kelas"
+},{
+  "_id": {
+    "$oid": "605a2cf25a6572e7dd0e0449"
+  },
+  "value": "yang"
+}]
