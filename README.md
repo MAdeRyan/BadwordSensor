@@ -16,7 +16,7 @@ Program ini diterapkan pada sebuah tampilan chat atau perpesanan. Untuk tampilan
 ![Run](images/run.JPG)
 
 ## Apa saja yang dibutuhkan
-Node.js
-Npm
-Nodemon
-MongoDB
+- Node.js
+- Npm
+- Nodemon
+- MongoDB
